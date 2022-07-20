@@ -11,7 +11,7 @@ sheet = client.open("Repositories Decoder").sheet1
 
 dbhost = 'localhost' 
 dbuser = 'postgres' 
-dbpass = 'madnesss4' 
+dbpass = 'MY PASSWORD' 
 database = 'postgres' 
 
 dwarehouse_conn = psycopg2.connect(dbname=database, 
